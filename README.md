@@ -237,9 +237,9 @@ food-service-intelligence/
 │
 ├── analise_mercado.py
 ├── analise_food_service.py
-├── mercado_analise.csv
 │
 └── outputs/
+    ├── mercado_analise.csv
     └── graficos/
         ├── 01_top_mercados_escala.png
         ├── 02_escala_dinamica.png
